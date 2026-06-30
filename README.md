@@ -138,4 +138,4 @@ I enjoy building software that solves real-world problems—from AI-powered desk
 ![Profile Views](https://komarev.com/ghpvc/?username=Azzam-alanazi&style=flat-square&color=58A6FF&label=Profile+Views)
 
 </div>
-```
+
