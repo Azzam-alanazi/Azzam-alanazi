@@ -1,18 +1,19 @@
-
 <div align="center">
 
-<!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Azzam+Alanazi+%F0%9F%91%8B;Information+Systems+Student;Full-Stack+Developer;AI+%26+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+<!-- Animated gradient banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Azzam%20Alanazi&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Information%20Systems%20%C2%B7%20Full-Stack%20%C2%B7%20AI&descSize=20&descAlignY=58" width="100%" alt="Azzam Alanazi banner" />
 
-<img src="https://avatars.githubusercontent.com/u/158026033?v=4" width="120" style="border-radius: 50%;" />
+<!-- Round avatar (GitHub strips border-radius, so a masked image is used) -->
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/158026033&w=240&h=240&fit=cover&mask=circle" width="130" alt="Azzam Alanazi" />
 
-# Azzam Alanazi
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A371F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Azzam+Alanazi+%F0%9F%91%8B;Information+Systems+Student+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Cybersecurity+Enthusiast+%F0%9F%A4%96%F0%9F%94%90)](https://git.io/typing-svg)
 
-**Information Systems Student · Full-Stack Developer · AI Enthusiast**
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azzam-alanazi-973a5234b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_tmeesah/)
-[![GitHub followers](https://img.shields.io/github/followers/Azzam-alanazi?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Azzam-alanazi)
+[![GitHub followers](https://img.shields.io/github/followers/Azzam-alanazi?style=for-the-badge&logo=github&logoColor=white&color=8957E5)](https://github.com/Azzam-alanazi)
+![Profile Views](https://komarev.com/ghpvc/?username=Azzam-alanazi&style=for-the-badge&color=F778BA&label=PROFILE+VIEWS)
 
 </div>
 
@@ -20,73 +21,38 @@
 
 # 👨‍💻 About Me
 
-I'm **Azzam Alanazi**, an **Information Systems** student at **Shaqra University** (College of Computing & Information Technology), based in **Saudi Arabia**.
+I'm **Azzam Alanazi**, an **Information Systems** student at **Shaqra University** (College of Computing & Information Technology), based in **Riyadh, Saudi Arabia**.
 
-I enjoy building software that solves real-world problems—from AI-powered desktop applications to full-stack web platforms. I'm passionate about clean architecture, security-conscious development, bilingual (AR/EN) interfaces, and modern user experiences.
+I build software that solves real problems, from AI-powered desktop apps to full-stack web platforms. I care about clean architecture, security-conscious development, bilingual (AR/EN) interfaces, and polished user experiences.
 
-- 🎓 Information Systems Student @ Shaqra University
-- 💻 Building desktop applications and full-stack web platforms
-- 🌐 Developing modern web applications with JavaScript, React, Node.js & MySQL
-- 🤖 Exploring Artificial Intelligence, Local LLMs, Automation & AI Agents
-- 🔐 Learning Cybersecurity, Networking & Information Security
-- 📍 Riyadh, Saudi Arabia
+| | |
+|---|---|
+| 🎓 **Studying** | Information Systems @ Shaqra University |
+| 💻 **Building** | Desktop applications & full-stack web platforms |
+| 🌐 **Web stack** | JavaScript, React, Node.js & MySQL |
+| 🤖 **Exploring** | AI, local LLMs, automation & AI agents |
+| 🔐 **Learning** | Cybersecurity, networking & information security |
+| 📍 **Location** | Riyadh, Saudi Arabia |
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### Currently Exploring
-
-- 🤖 Artificial Intelligence
-- 🧠 Local LLMs
-- ⚡ Automation
-- 🔐 Cybersecurity
-- ☁️ Cloud Technologies
-
----
-
-# 🏅 Certifications
-
-| Badge | Certification | Issuer |
-|-------|--------------|--------|
-| [![IBM](https://img.shields.io/badge/IBM-Cloud_Security-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://www.ibm.com/training/badge/cloud-security-fundamentals) | Cloud Security Fundamentals | IBM SkillsBuild |
-| [![IBM](https://img.shields.io/badge/IBM-Security_Operations-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://www.ibm.com/training) | Security Operations Fundamentals | IBM SkillsBuild |
-| [![IBM](https://img.shields.io/badge/IBM-Incident_Response-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://www.ibm.com/training) | Incident Response Fundamentals | IBM SkillsBuild |
-| [![IBM](https://img.shields.io/badge/IBM-System_%26_Network_Security-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://www.ibm.com/training) | System & Network Security | IBM SkillsBuild |
-| [![Cisco](https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.netacad.com/) | Cisco Networking Academy | Cisco |
-
----
-
-# 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azzam-alanazi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzam-alanazi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,react,nodejs,express,git,vscode&perline=10" alt="Tech stack icons" />
 
 </div>
 
+### 🔭 Currently Exploring
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Azzam-alanazi&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-8957E5?style=for-the-badge&logo=openai&logoColor=white)
+![Local LLMs](https://img.shields.io/badge/Local_LLMs-F778BA?style=for-the-badge&logo=ollama&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-F0883E?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-3FB950?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-58A6FF?style=for-the-badge&logo=icloud&logoColor=white)
 
 </div>
 
@@ -94,48 +60,57 @@ I enjoy building software that solves real-world problems—from AI-powered desk
 
 # 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **TMOS** | AI desktop assistant with wake-word detection, voice interaction and multi-LLM support | Python • PyQt6 • Ollama • Gemini • Groq |
-| **CV Website** | Personal portfolio website with modern glassmorphism UI | HTML • CSS • JavaScript |
-| **Design Company Profile** | Responsive bilingual (Arabic/English) company website | HTML • CSS • JavaScript |
+<table>
+  <tr>
+    <td width="60" align="center"><h2>🤖</h2></td>
+    <td>
+      <h3>TMOS: AI Desktop Assistant</h3>
+      A voice-first assistant with wake-word detection and natural voice interaction, powered by switchable local and cloud LLMs.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+      <br/><br/>
+      <a href="https://github.com/Azzam-alanazi?tab=repositories"><img src="https://img.shields.io/badge/View_Project-→-8957E5?style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="right">
-
-# 👨‍💻 عن نفسي
-
-أنا **عزام العنزي**، طالب **نظم معلومات** في **جامعة شقراء** (كلية الحوسبة وتقنية المعلومات)، من المملكة العربية السعودية.
-
-أهتم بتطوير البرمجيات التي تقدم حلولاً عملية، بدءًا من تطبيقات سطح المكتب المدعومة بالذكاء الاصطناعي وحتى تطبيقات الويب الحديثة. أركز على كتابة كود نظيف، وبناء واجهات احترافية، وتطبيق أفضل ممارسات أمن المعلومات.
-
-- 🎓 طالب نظم معلومات في جامعة شقراء
-- 💻 تطوير تطبيقات سطح المكتب وتطبيقات الويب
-- 🌐 بناء تطبيقات ويب حديثة باستخدام React وNode.js وMySQL
-- 🤖 استكشاف الذكاء الاصطناعي والنماذج اللغوية المحلية
-- 🔐 التوسع في أمن المعلومات والشبكات
-- 📍 الرياض، المملكة العربية السعودية
-
-## 🏅 الشهادات
-
-| الشهادة | الجهة |
-|---------|-------|
-| Cloud Security Fundamentals | IBM SkillsBuild |
-| Security Operations Fundamentals | IBM SkillsBuild |
-| Incident Response Fundamentals | IBM SkillsBuild |
-| System & Network Security | IBM SkillsBuild |
-| Cisco Networking Academy | Cisco |
-
-</div>
-
----
+# 📊 GitHub Activity
 
 <div align="center">
 
-> *"Code is more than making software work—it's about creating solutions that are reliable, secure, and enjoyable to use."*
+[![GitHub Streak](https://streak-stats.demolab.com?user=Azzam-alanazi&theme=tokyonight&hide_border=true&border_radius=12)](https://git.io/streak-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Azzam-alanazi&style=flat-square&color=58A6FF&label=Profile+Views)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azzam-alanazi&bg_color=0D1117&color=58A6FF&line=A371F7&point=F778BA&area=true&area_color=A371F7&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
+
+<!-- Contribution snake: generated by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azzam-alanazi/Azzam-alanazi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azzam-alanazi/Azzam-alanazi/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Azzam-alanazi/Azzam-alanazi/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
+---
+
+# 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, especially in AI, full-stack development, and security.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azzam-alanazi-973a5234b/)
+[![GitHub](https://img.shields.io/badge/Follow_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azzam-alanazi)
+
+<br/>
+
+> *"Code is more than making software work. It's about creating solutions that are reliable, secure, and enjoyable to use."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer wave" />
+
+</div>
